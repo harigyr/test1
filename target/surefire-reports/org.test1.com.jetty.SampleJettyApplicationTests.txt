@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.test1.com.jetty.SampleJettyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.476 sec - in org.test1.com.jetty.SampleJettyApplicationTests
